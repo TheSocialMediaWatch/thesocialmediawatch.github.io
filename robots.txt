@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thesocialmediawatch.github.io/sitemap.xml
